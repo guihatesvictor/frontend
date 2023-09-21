@@ -1,0 +1,49 @@
+@media (min-width: 576px) {
+    .principal {
+        background-image: url(https://i0.wp.com/techwek.com/wp-content/uploads/2020/12/praia-do-caribe-linda-vista.jpg?resize=770%2C500&ssl=1);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .principal {
+        background-image: url(https://media.istockphoto.com/id/466207802/pt/foto/paisagem-das-seicheles.jpg?s=170667a&w=0&k=20&c=NluRra1HqGSUOAEzrI8jyOoWDTVsUm-eTCm2qryz78w=);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 992px) {
+    .principal {
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgz7Kp0Yq5J1gZfVjxguvmIvuP5Os3-D0ay4NoVXs_M3hn4RE9HhI5gBK-gfT2jsJq89s&usqp=CAU);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 1200px) {
+    .principal {
+        background-image: url(https://www.guardti.com.br/blog/wp-content/uploads/2019/09/original-658daa6f72dd77c981efaff318e4cc33.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 1400px) {
+    .principal {
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZjr5BjoViU-BedEp4DFg5VA2utpVmnP6XWFYsTKlmybQHHDPJTpr9NAq7VxzZqbjFuE&usqp=CAU);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}

@@ -1,0 +1,27 @@
+body {
+    overflow-x: hidden !important;
+}
+
+.banner {
+    width: 65%;
+    margin: 60px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.card-style {
+    border: 3px solid red;
+    border-radius: 20px;
+    height: 20rem;
+}
+
+.img-card {
+    width: 15rem;
+    height: 15rem;
+}
+
+.ec {
+    margin-left: 1000px;
+}
